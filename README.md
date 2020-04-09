@@ -4,6 +4,8 @@
 
 > 如果有时间考虑出一个日语学习APP，估将知识点设计成数据库表的形式
 
+- [N5](https://github.com/lilinxi/N1JiSho/blob/master/MarkdownDB/n5.md)
+
 ---
 
 ## references
