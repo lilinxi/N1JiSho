@@ -5,7 +5,7 @@
 > 如果有时间考虑出一个日语学习APP，估将知识点设计成数据库表的形式
 
 - [N5](https://github.com/lilinxi/N1JiSho/blob/master/MarkdownDB/n5.md)
-- 词汇变换总结
+- [词汇变换总结](https://github.com/lilinxi/N1JiSho/blob/master/Issuces/transfer.md)
 - 问法总结
 - 连词总结
 - 副词总结
