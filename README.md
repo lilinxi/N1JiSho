@@ -7,8 +7,6 @@
 - [N5](https://github.com/lilinxi/N1JiSho/blob/master/MarkdownDB/n5.md)
 - [词汇变换总结](https://github.com/lilinxi/N1JiSho/blob/master/Issues/transfer.md)
 - [问法总结](https://github.com/lilinxi/N1JiSho/blob/master/Issues/ask.md)
-- 连词总结
-- 副词总结
 - 介词总结
 - 动词总结
 - 形容词总结（同音、反义）
