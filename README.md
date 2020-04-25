@@ -25,3 +25,13 @@ function cjkRuby(str) {
     });
 }
 ```
+
+---
+
+# LearnJapanese
+
+- [词典](https://www.weblio.jp/)
+- http://japan.icerdesign.com/
+- https://www.yahoo.co.jp/
+- https://nihongonosensei.net/
+- http://www.gavo.t.u-tokyo.ac.jp/ojad/
