@@ -5,13 +5,16 @@
 > 如果有时间考虑出一个日语学习APP，估将知识点设计成数据库表的形式
 
 - [N5](https://github.com/lilinxi/N1JiSho/blob/master/MarkdownDB/n5.md)
-- [词汇变换总结](https://github.com/lilinxi/N1JiSho/blob/master/Issues/transfer.md)
-- [问法总结](https://github.com/lilinxi/N1JiSho/blob/master/Issues/ask.md)
-- [介词用法总结](https://github.com/lilinxi/N1JiSho/blob/master/Issues/prep.md)
-- 动词总结
-- 形容词总结（同音、反义）
-- 经典句式
+- [N5词汇变换总结](https://github.com/lilinxi/N1JiSho/blob/master/Issues/transfer.md)
+- [N5问法总结](https://github.com/lilinxi/N1JiSho/blob/master/Issues/ask.md)
+- [N5介词用法总结](https://github.com/lilinxi/N1JiSho/blob/master/Issues/prep.md)
+- N5动词总结
+- N5形容词总结（同音、反义）
+- N5经典句式
 - [N4 句式&课后题](https://github.com/lilinxi/N1JiSho/blob/master/answers/n4.md)
+- N4词汇变换总结
+- N4单句式总结
+- N4复句式总结
 
 
 ---
